@@ -1,1 +1,3 @@
-[Deployment]([https://www.genome.gov/](http://three-js-project.free.nf/))
+## Deployment
+
+The app is deployed [here](http://three-js-project.free.nf/).
